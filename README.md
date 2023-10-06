@@ -1,4 +1,4 @@
-# BAT.jl Tutorial for the PUNCH Young Academy  <img style="height:3em;" alt="BAT.jl" src="https://bat.github.io/BAT.jl/dev/assets/logo.svg"/> 
+# <img style="height:2.8em;" alt="BAT.jl" src="https://bat.github.io/BAT.jl/dev/assets/logo.svg"/> &nbsp;  Tutorial for the PUNCH Young Academy  
 
 If you have access to the PUNCH jupyterhub service, you can log in to https://jupyterhub.uni-muenster.de and start the Julia-1.9.3 kernel.
 
