@@ -9,6 +9,6 @@ If you want to install on your machine follow the steps below:
 4. Copy and paste the following snippet to install all required packages
    ```julia
    using Pkg
-   pkg"add BAT, Distributions, IntervalSets, ValueShapes, Plotsm ArraysOfArrays, StatsBase, LinearAlgebra, DensityInterface, Optim, EmpiricalDistributions"
+   pkg"add BAT, Distributions, IntervalSets, ValueShapes, Plots, ArraysOfArrays, StatsBase, LinearAlgebra, DensityInterface, Optim, EmpiricalDistributions"
    ```
 You should now have everything installed and should be able to run the tutorial notebook.
