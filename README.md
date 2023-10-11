@@ -17,5 +17,6 @@ If you want to install on your machine follow the steps below:
    pkg"add IJulia"
    ```
    If you have a working jupyter setup (usually using your python installation), you should now also see a Julia kernel in the jupyter service.
+   Otherwise, it is recommended to use VS Code and the Julia plugin to run the code.
    
 You should now have everything installed and should be able to run the tutorial notebook.
