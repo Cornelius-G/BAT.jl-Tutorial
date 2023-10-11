@@ -11,4 +11,11 @@ If you want to install on your machine follow the steps below:
    using Pkg
    pkg"add BAT, Distributions, IntervalSets, ValueShapes, Plots, ArraysOfArrays, StatsBase, LinearAlgebra, DensityInterface, Optim, EmpiricalDistributions"
    ```
+   If you want to run the tutorial as notebooks, you should also install the Package `IJulia`:
+      ```julia
+   using Pkg
+   pkg"add IJulia"
+   ```
+   If you have a working jupyter setup (usually using your python installation), you should now also see a Julia kernel in the jupyter service.
+   
 You should now have everything installed and should be able to run the tutorial notebook.
